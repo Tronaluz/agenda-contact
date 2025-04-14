@@ -65,7 +65,3 @@ agenda-contatos/
 ## Créditos
 
 Imagem de fundo por Miles Burke no Unsplash.
-
-## Licença
-
-[Sua licença escolhida]
